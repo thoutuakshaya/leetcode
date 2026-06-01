@@ -1,29 +1,18 @@
 class Solution:
     def exclusiveTime(self, n: int, logs: List[str]) -> List[int]:
-        result = [0] * n
-        stack = []
-
-        prevTime = 0
-
+        r=[0]*n
+        s=[]
+        prevt=0
         for log in logs:
-
-            fn, typ, time = log.split(":")
-            fn = int(fn)
-            time = int(time)
-
-            if typ == "start":
-
-                if len(stack)>0:
-                    result[stack[-1]] += time - prevTime
-
-                stack.append(fn)
-                prevTime = time
-
+            f,nme,t=log.split(":")
+            f=int(f)
+            t=int(t)
+            if nme=="start":
+                if len(s)>0:
+                    r[s[-1]]+=t-prevt
+                s.append(f)
+                prevt=t
             else:
-
-                result[stack.pop()] += time - prevTime + 1
-
-                prevTime = time + 1
-
-        return result
-        
+                r[s.pop()]+=t-prevt+1
+                prevt=t+1
+        return r

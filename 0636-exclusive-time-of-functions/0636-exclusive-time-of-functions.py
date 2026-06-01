@@ -13,7 +13,7 @@ class Solution:
 
             if typ == "start":
 
-                if stack:
+                if len(stack)>0:
                     result[stack[-1]] += time - prevTime
 
                 stack.append(fn)

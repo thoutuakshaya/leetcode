@@ -3,78 +3,102 @@ from functools import lru_cache
 class Solution:
     def totalWaviness(self, num1: int, num2: int) -> int:
 
-        def solve(n):
+        # Returns total waviness of all numbers from 0 to n
+        def get_total_waviness_upto(n):
+
             if n < 0:
                 return 0
 
             digits = list(map(int, str(n)))
-            m = len(digits)
+            length = len(digits)
 
             @lru_cache(None)
-            def dp(pos, tight, started, prev1, prev2):
-                """
-                Returns:
-                (count_numbers, total_waviness)
-                """
+            def dp(position, tight, started, previous_digit, second_previous_digit):
 
-                if pos == m:
-                    return (1, 0)
+                # Reached end of number
+                if position == length:
+                    return (1, 0)  # (count_of_numbers, total_waviness)
 
-                limit = digits[pos] if tight else 9
+                limit = digits[position] if tight else 9
 
-                total_count = 0
-                total_wave = 0
+                total_numbers = 0
+                total_waviness = 0
 
-                for d in range(limit + 1):
+                for current_digit in range(limit + 1):
 
-                    ntight = tight and (d == limit)
+                    new_tight = tight and (current_digit == limit)
 
-                    if not started and d == 0:
-                        cnt, wav = dp(
-                            pos + 1,
-                            ntight,
+                    # Still skipping leading zeros
+                    if not started and current_digit == 0:
+
+                        count, waviness = dp(
+                            position + 1,
+                            new_tight,
                             False,
                             -1,
                             -1
                         )
 
-                        total_count += cnt
-                        total_wave += wav
+                        total_numbers += count
+                        total_waviness += waviness
 
                     else:
+
+                        # First actual digit
                         if not started:
-                            cnt, wav = dp(
-                                pos + 1,
-                                ntight,
+
+                            count, waviness = dp(
+                                position + 1,
+                                new_tight,
                                 True,
-                                d,
+                                current_digit,
                                 -1
                             )
 
-                            total_count += cnt
-                            total_wave += wav
+                            total_numbers += count
+                            total_waviness += waviness
 
                         else:
-                            add = 0
 
-                            if prev2 != -1:
-                                if ((prev1 > prev2 and prev1 > d) or
-                                    (prev1 < prev2 and prev1 < d)):
-                                    add = 1
+                            new_peak_or_valley = 0
 
-                            cnt, wav = dp(
-                                pos + 1,
-                                ntight,
+                            # We have 3 digits:
+                            # second_previous_digit, previous_digit, current_digit
+                            if second_previous_digit != -1:
+
+                                is_peak = (
+                                    previous_digit > second_previous_digit
+                                    and previous_digit > current_digit
+                                )
+
+                                is_valley = (
+                                    previous_digit < second_previous_digit
+                                    and previous_digit < current_digit
+                                )
+
+                                if is_peak or is_valley:
+                                    new_peak_or_valley = 1
+
+                            count, waviness = dp(
+                                position + 1,
+                                new_tight,
                                 True,
-                                d,
-                                prev1
+                                current_digit,
+                                previous_digit
                             )
 
-                            total_count += cnt
-                            total_wave += wav + add * cnt
+                            total_numbers += count
 
-                return (total_count, total_wave)
+                            total_waviness += (
+                                waviness
+                                + new_peak_or_valley * count
+                            )
+
+                return (total_numbers, total_waviness)
 
             return dp(0, True, False, -1, -1)[1]
 
-        return solve(num2) - solve(num1 - 1)
+        return (
+            get_total_waviness_upto(num2)
+            - get_total_waviness_upto(num1 - 1)
+        )

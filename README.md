@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/thoutuakshaya/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/thoutuakshaya/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/thoutuakshaya/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/thoutuakshaya/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/thoutuakshaya/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/thoutuakshaya/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Segment Tree
 |  |
 | ------- |
@@ -118,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/thoutuakshaya/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/thoutuakshaya/leetcode/tree/master/1768-merge-strings-alternately) |
+| [3838-weighted-word-mapping](https://github.com/thoutuakshaya/leetcode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/thoutuakshaya/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thoutuakshaya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/thoutuakshaya/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/thoutuakshaya/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/thoutuakshaya/leetcode/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/thoutuakshaya/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/thoutuakshaya/leetcode/tree/master/0739-daily-temperatures) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/thoutuakshaya/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/thoutuakshaya/leetcode/tree/master/0605-can-place-flowers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/thoutuakshaya/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/thoutuakshaya/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |

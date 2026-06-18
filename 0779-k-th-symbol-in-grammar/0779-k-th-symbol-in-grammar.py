@@ -1,11 +1,3 @@
 class Solution:
     def kthGrammar(self, n: int, k: int) -> int:
-        if n==1:
-            return 0
-        half=2**(n-2)
-        if k<=half:
-            return self.kthGrammar(n-1,k)
-        else:
-            return 1-self.kthGrammar(n-1,k-half)
-
-        
+        return bin(k-1).count('1')%2

@@ -3,8 +3,8 @@ class Solution:
         n=len(gain)
         arr=[0]*(n+1)
         for i in range(1,len(arr)):
-            if i!=0:
-                arr[i]+=arr[i-1]+gain[i-1]
+            
+            arr[i]+=arr[i-1]+gain[i-1]
         return max(arr)
 
         

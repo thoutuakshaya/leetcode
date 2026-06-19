@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/thoutuakshaya/leetcode/tree/master/0739-daily-temperatures) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thoutuakshaya/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/thoutuakshaya/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1732-find-the-highest-altitude](https://github.com/thoutuakshaya/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/thoutuakshaya/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/thoutuakshaya/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/thoutuakshaya/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/thoutuakshaya/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/thoutuakshaya/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/thoutuakshaya/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
 |  |

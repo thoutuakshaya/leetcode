@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/thoutuakshaya/leetcode/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/thoutuakshaya/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/thoutuakshaya/leetcode/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/thoutuakshaya/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thoutuakshaya/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/thoutuakshaya/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/thoutuakshaya/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/thoutuakshaya/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/thoutuakshaya/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/thoutuakshaya/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/thoutuakshaya/leetcode/tree/master/1840-maximum-building-height) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/thoutuakshaya/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/thoutuakshaya/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/thoutuakshaya/leetcode/tree/master/0443-string-compression) |
+| [0977-squares-of-a-sorted-array](https://github.com/thoutuakshaya/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/thoutuakshaya/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/thoutuakshaya/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/thoutuakshaya/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |

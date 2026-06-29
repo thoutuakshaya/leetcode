@@ -1,5 +1,10 @@
-class Solution:
-    def longestOnes(self, nums: List[int], k: int) -> int:
+class Solution(object):
+    def longestOnes(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
         left=0
         zero=0
         ans=0
@@ -15,5 +20,4 @@ class Solution:
             ans = max(ans, right - left + 1)
         return ans
 
-
-            
+        

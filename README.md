@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/thoutuakshaya/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/thoutuakshaya/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/thoutuakshaya/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/thoutuakshaya/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/thoutuakshaya/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/thoutuakshaya/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/thoutuakshaya/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thoutuakshaya/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/thoutuakshaya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/thoutuakshaya/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/thoutuakshaya/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/thoutuakshaya/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Monotonic Stack
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/thoutuakshaya/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/thoutuakshaya/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/thoutuakshaya/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/thoutuakshaya/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Depth-First Search
 |  |
@@ -224,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/thoutuakshaya/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/thoutuakshaya/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/thoutuakshaya/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->

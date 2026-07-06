@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/thoutuakshaya/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/thoutuakshaya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/thoutuakshaya/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1288-remove-covered-intervals](https://github.com/thoutuakshaya/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thoutuakshaya/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/thoutuakshaya/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/thoutuakshaya/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/thoutuakshaya/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/thoutuakshaya/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/thoutuakshaya/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/thoutuakshaya/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/thoutuakshaya/leetcode/tree/master/1833-maximum-ice-cream-bars) |

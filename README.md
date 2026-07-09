@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/thoutuakshaya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0394-decode-string](https://github.com/thoutuakshaya/leetcode/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/thoutuakshaya/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/thoutuakshaya/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/thoutuakshaya/leetcode/tree/master/0739-daily-temperatures) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/thoutuakshaya/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thoutuakshaya/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/thoutuakshaya/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/thoutuakshaya/leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/thoutuakshaya/leetcode/tree/master/0443-string-compression) |
 | [0880-decoded-string-at-index](https://github.com/thoutuakshaya/leetcode/tree/master/0880-decoded-string-at-index) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/thoutuakshaya/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/thoutuakshaya/leetcode/tree/master/0394-decode-string) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thoutuakshaya/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Counting Sort
 |  |

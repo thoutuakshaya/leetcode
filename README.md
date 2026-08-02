@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/thoutuakshaya/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/thoutuakshaya/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/thoutuakshaya/leetcode/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/thoutuakshaya/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/thoutuakshaya/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/thoutuakshaya/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/thoutuakshaya/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/thoutuakshaya/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thoutuakshaya/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thoutuakshaya/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0877-stone-game](https://github.com/thoutuakshaya/leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/thoutuakshaya/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/thoutuakshaya/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/thoutuakshaya/leetcode/tree/master/1840-maximum-building-height) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/thoutuakshaya/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/thoutuakshaya/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/thoutuakshaya/leetcode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/thoutuakshaya/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/thoutuakshaya/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/thoutuakshaya/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -383,4 +386,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/thoutuakshaya/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/thoutuakshaya/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

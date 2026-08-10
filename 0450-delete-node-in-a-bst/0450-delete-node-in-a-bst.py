@@ -9,9 +9,9 @@ class Solution:
         if root is None:
             return None
         if key <root.val:
-            self.deleteNode(root.left,key)
+            root.left=self.deleteNode(root.left,key)
         elif key>root.val:
-            self.deleteNode(root.right,key)
+            root.right=self.deleteNode(root.right,key)
         else:
             #key found annat
             if root.left is None:

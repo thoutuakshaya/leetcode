@@ -1,19 +1,18 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        n = len(isConnected)
-        visited = [False] * n
-        count = 0
+        visited=[False]*len(isConnected)
+        def connect(city):
+            visited[city]=True
+            for i in range(len(isConnected)):
+                if isConnected[city][i]==1 and not visited[i]:
+                    connect(i)
+        pr=0
+        for ci in range(len(isConnected)):
+            if not visited[ci]:
+                pr+=1
+                connect(ci)
+        return pr
 
-        def dfs(city):
-            visited[city] = True
 
-            for nei in range(n):
-                if isConnected[city][nei] == 1 and not visited[nei]:
-                    dfs(nei)
+            
 
-        for city in range(n):
-            if not visited[city]:
-                count += 1
-                dfs(city)
-
-        return count

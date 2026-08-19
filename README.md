@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/thoutuakshaya/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/thoutuakshaya/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/thoutuakshaya/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1386-cinema-seat-allocation](https://github.com/thoutuakshaya/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/thoutuakshaya/leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thoutuakshaya/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thoutuakshaya/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/thoutuakshaya/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/thoutuakshaya/leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/thoutuakshaya/leetcode/tree/master/0649-dota2-senate) |
+| [1386-cinema-seat-allocation](https://github.com/thoutuakshaya/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/thoutuakshaya/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/thoutuakshaya/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/thoutuakshaya/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/thoutuakshaya/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1189-maximum-number-of-balloons](https://github.com/thoutuakshaya/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/thoutuakshaya/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1386-cinema-seat-allocation](https://github.com/thoutuakshaya/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/thoutuakshaya/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/thoutuakshaya/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/thoutuakshaya/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/thoutuakshaya/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1386-cinema-seat-allocation](https://github.com/thoutuakshaya/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/thoutuakshaya/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/thoutuakshaya/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/thoutuakshaya/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |

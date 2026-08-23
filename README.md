@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/thoutuakshaya/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/thoutuakshaya/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/thoutuakshaya/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/thoutuakshaya/leetcode/tree/master/1927-sum-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/thoutuakshaya/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thoutuakshaya/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/thoutuakshaya/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/thoutuakshaya/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/thoutuakshaya/leetcode/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/thoutuakshaya/leetcode/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/thoutuakshaya/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thoutuakshaya/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/thoutuakshaya/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thoutuakshaya/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thoutuakshaya/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/thoutuakshaya/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/thoutuakshaya/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/thoutuakshaya/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/thoutuakshaya/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/thoutuakshaya/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/thoutuakshaya/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/thoutuakshaya/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/thoutuakshaya/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/thoutuakshaya/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/thoutuakshaya/leetcode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |

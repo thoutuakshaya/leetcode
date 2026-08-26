@@ -556,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/thoutuakshaya/leetcode/tree/master/0399-evaluate-division) |
+## Database
+|  |
+| ------- |
+| [1965-employees-with-missing-information](https://github.com/thoutuakshaya/leetcode/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->

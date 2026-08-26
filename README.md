@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/thoutuakshaya/leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/thoutuakshaya/leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/thoutuakshaya/leetcode/tree/master/0649-dota2-senate) |
+| [0831-masking-personal-information](https://github.com/thoutuakshaya/leetcode/tree/master/0831-masking-personal-information) |
 | [0880-decoded-string-at-index](https://github.com/thoutuakshaya/leetcode/tree/master/0880-decoded-string-at-index) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/thoutuakshaya/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/thoutuakshaya/leetcode/tree/master/1189-maximum-number-of-balloons) |

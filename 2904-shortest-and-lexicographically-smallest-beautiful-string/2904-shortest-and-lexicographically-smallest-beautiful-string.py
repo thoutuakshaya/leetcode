@@ -17,6 +17,6 @@ class Solution:
                     elif len(current) == len(ans) and current < ans:
                         ans = current
 
-                    break
+                    
 
         return ans

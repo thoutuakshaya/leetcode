@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/thoutuakshaya/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thoutuakshaya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thoutuakshaya/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/thoutuakshaya/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thoutuakshaya/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/thoutuakshaya/leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/thoutuakshaya/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/thoutuakshaya/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/thoutuakshaya/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/thoutuakshaya/leetcode/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/thoutuakshaya/leetcode/tree/master/0746-min-cost-climbing-stairs) |

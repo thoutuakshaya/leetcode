@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/thoutuakshaya/leetcode/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/thoutuakshaya/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thoutuakshaya/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thoutuakshaya/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/thoutuakshaya/leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/thoutuakshaya/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/thoutuakshaya/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/thoutuakshaya/leetcode/tree/master/0486-predict-the-winner) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/thoutuakshaya/leetcode/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/thoutuakshaya/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thoutuakshaya/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Design

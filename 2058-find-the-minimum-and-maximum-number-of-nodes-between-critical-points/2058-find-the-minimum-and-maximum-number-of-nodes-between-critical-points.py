@@ -13,8 +13,8 @@ class Solution:
 
         while curr.next:
 
-            if (curr.val > prev.val and curr.val > curr.next.val) or \
-               (curr.val < prev.val and curr.val < curr.next.val):
+            if ((curr.val > prev.val and curr.val > curr.next.val) or 
+               (curr.val < prev.val and curr.val < curr.next.val)):
 
                 # current node is critical
                 if first == -1:

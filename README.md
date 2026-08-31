@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/thoutuakshaya/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/thoutuakshaya/leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/thoutuakshaya/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/thoutuakshaya/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/thoutuakshaya/leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/thoutuakshaya/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/thoutuakshaya/leetcode/tree/master/1406-stone-game-iii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/thoutuakshaya/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/thoutuakshaya/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/thoutuakshaya/leetcode/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/thoutuakshaya/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/thoutuakshaya/leetcode/tree/master/1140-stone-game-ii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/thoutuakshaya/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/thoutuakshaya/leetcode/tree/master/1406-stone-game-iii) |
@@ -610,4 +612,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/thoutuakshaya/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/thoutuakshaya/leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

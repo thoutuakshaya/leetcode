@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/thoutuakshaya/leetcode/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/thoutuakshaya/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thoutuakshaya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/thoutuakshaya/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thoutuakshaya/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/thoutuakshaya/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thoutuakshaya/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/thoutuakshaya/leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/thoutuakshaya/leetcode/tree/master/0338-counting-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thoutuakshaya/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/thoutuakshaya/leetcode/tree/master/1386-cinema-seat-allocation) |

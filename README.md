@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thoutuakshaya/leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/thoutuakshaya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/thoutuakshaya/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thoutuakshaya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/thoutuakshaya/leetcode/tree/master/0136-single-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/thoutuakshaya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thoutuakshaya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/thoutuakshaya/leetcode/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/thoutuakshaya/leetcode/tree/master/0636-exclusive-time-of-functions) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thoutuakshaya/leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/thoutuakshaya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/thoutuakshaya/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thoutuakshaya/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/thoutuakshaya/leetcode/tree/master/0283-move-zeroes) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/thoutuakshaya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thoutuakshaya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/thoutuakshaya/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/thoutuakshaya/leetcode/tree/master/0901-online-stock-span) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/thoutuakshaya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/thoutuakshaya/leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/thoutuakshaya/leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/thoutuakshaya/leetcode/tree/master/0198-house-robber) |

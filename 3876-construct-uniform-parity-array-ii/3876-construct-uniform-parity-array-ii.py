@@ -1,4 +1,4 @@
 class Solution:
-    def uniformArray(self, nums1: List[int]) -> bool:
-        mn = min((x for x in nums1 if x & 1), default=None)
-        return mn is None or all(x >= mn for x in nums1 if x & 1 == 0)
+    def uniformArray(self, nums1: list[int]) -> bool:
+        #return min(nums1)&1 or all(i&1 for i in nums1)
+        return min(nums1) % 2 == 1 or all(a % 2 == 0 for a in nums1)

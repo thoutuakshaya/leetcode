@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/thoutuakshaya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/thoutuakshaya/leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/thoutuakshaya/leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/thoutuakshaya/leetcode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/thoutuakshaya/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/thoutuakshaya/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/thoutuakshaya/leetcode/tree/master/0338-counting-bits) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thoutuakshaya/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/thoutuakshaya/leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/thoutuakshaya/leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/thoutuakshaya/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/thoutuakshaya/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/thoutuakshaya/leetcode/tree/master/0344-reverse-string) |

@@ -655,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/thoutuakshaya/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1965-employees-with-missing-information](https://github.com/thoutuakshaya/leetcode/tree/master/1965-employees-with-missing-information) |
 ## Quickselect
 |  |

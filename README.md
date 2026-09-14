@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/thoutuakshaya/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thoutuakshaya/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thoutuakshaya/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0836-rectangle-overlap](https://github.com/thoutuakshaya/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/thoutuakshaya/leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/thoutuakshaya/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/thoutuakshaya/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -697,4 +698,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/thoutuakshaya/leetcode/tree/master/0322-coin-change) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/thoutuakshaya/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

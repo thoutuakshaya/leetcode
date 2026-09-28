@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/thoutuakshaya/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/thoutuakshaya/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2574-left-and-right-sum-differences](https://github.com/thoutuakshaya/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2742-painting-the-walls](https://github.com/thoutuakshaya/leetcode/tree/master/2742-painting-the-walls) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/thoutuakshaya/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/thoutuakshaya/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thoutuakshaya/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/thoutuakshaya/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/thoutuakshaya/leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thoutuakshaya/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2742-painting-the-walls](https://github.com/thoutuakshaya/leetcode/tree/master/2742-painting-the-walls) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/thoutuakshaya/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/thoutuakshaya/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/thoutuakshaya/leetcode/tree/master/3524-find-x-value-of-array-i) |

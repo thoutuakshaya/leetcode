@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/thoutuakshaya/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thoutuakshaya/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/thoutuakshaya/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/thoutuakshaya/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thoutuakshaya/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/thoutuakshaya/leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/thoutuakshaya/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/thoutuakshaya/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/thoutuakshaya/leetcode/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/thoutuakshaya/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/thoutuakshaya/leetcode/tree/master/1260-shift-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/thoutuakshaya/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thoutuakshaya/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/thoutuakshaya/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/thoutuakshaya/leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thoutuakshaya/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/thoutuakshaya/leetcode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/thoutuakshaya/leetcode/tree/master/0437-path-sum-iii) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thoutuakshaya/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/thoutuakshaya/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/thoutuakshaya/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/thoutuakshaya/leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/thoutuakshaya/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/thoutuakshaya/leetcode/tree/master/0547-number-of-provinces) |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/thoutuakshaya/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/thoutuakshaya/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/thoutuakshaya/leetcode/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/thoutuakshaya/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
